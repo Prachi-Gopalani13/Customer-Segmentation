@@ -1,4 +1,4 @@
 # Customer-Segmentation
 
 ## Explained: Blog
-https://prachi-gopalani.medium.com/customer-segmentation-in-online-retail-9bf554ec9c88
+https://medium.com/swlh/customer-segmentation-in-online-retail-cohort-analysis-eb352085e64b
