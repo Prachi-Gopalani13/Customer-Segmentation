@@ -15,10 +15,10 @@ Since, we will be performing Cohort Analysis based on Transaction records of Cus
 · Price                                                                                                                                                                             
 · and Quantity columns in this Analysis                                                                                                                                             
 
-Step 1: Month Extraction from InvoiceDate Column
-Step 2: Assigning Cohorts to Each Column
-Step 3: Assigning Cohort Index to each transaction
-Step 4: Calculating number of unique customers in each Group of (CohortDate,Index)
-Step 5: Retention rate Calculation
+Step 1: Month Extraction from InvoiceDate Column                                                                                                                                   
+Step 2: Assigning Cohorts to Each Column                                                                                                                                           
+Step 3: Assigning Cohort Index to each transaction                                                                                                                                 
+Step 4: Calculating number of unique customers in each Group of (CohortDate,Index)                                                                                                 
+Step 5: Retention rate Calculation                                                                                                                                                 
 Step 6: Visualizing the Above Retention rate
 
