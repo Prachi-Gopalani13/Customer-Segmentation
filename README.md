@@ -9,11 +9,11 @@ https://medium.com/swlh/customer-segmentation-in-online-retail-cohort-analysis-e
 A cohort is a set of users who share similar characteristics over time. Cohort analysis groups the users into mutually exclusive groups and their behaviour is measured over time.
 
 ### Cohort Analysis: Retention Rate
-Since, we will be performing Cohort Analysis based on Transaction records of Customers, we will be Dealing with Mainly:
-· Invoice Data
-· CustomerID
-· Price
-· and Quantity columns in this Analysis
+Since, we will be performing Cohort Analysis based on Transaction records of Customers, we will be Dealing with Mainly:                                                             
+· Invoice Data                                                                                                                                                                     
+· CustomerID                                                                                                                                                                       
+· Price                                                                                                                                                                             
+· and Quantity columns in this Analysis                                                                                                                                             
 
 Step 1: Month Extraction from InvoiceDate Column
 Step 2: Assigning Cohorts to Each Column
