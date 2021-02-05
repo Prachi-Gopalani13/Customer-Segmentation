@@ -22,3 +22,5 @@ Step 4: Calculating number of unique customers in each Group of (CohortDate,Inde
 Step 5: Retention rate Calculation                                                                                                                                                 
 Step 6: Visualizing the Above Retention rate
 
+## RFM Analysis
+
